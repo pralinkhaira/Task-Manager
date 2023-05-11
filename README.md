@@ -40,7 +40,12 @@ Contributions to this project are welcome! To contribute, follow these steps:
 -Task reminders: You can set reminders for tasks by clicking the "Set Reminder" button next to the task description. Reminders will be displayed in red if they are past due.
 -Task sharing: You can share tasks with others by exporting them to a CSV file using the "Export" button.
 ```
-
+`Task-Manager-v1.2` - This new visual update has the following features:
+```
+- Made changes to styles.css to improve the visual appeal of index.html.
+- Changed font and background colors, added margins and padding, and used box-shadow to add depth to task list items.
+- No changes were made to the HTML or JavaScript code.
+```
 ## License
 
 This project is licensed under the [GNU License](LICENSE).
