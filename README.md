@@ -7,7 +7,7 @@ This is a simple to-do list web application created with HTML, CSS, and JavaScri
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/BitH0xker/Task-Manager.git
+git clone https://github.com/PralinKhaira/Task-Manager.git
 ```
 
 ## Usage
